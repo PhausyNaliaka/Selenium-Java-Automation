@@ -1,6 +1,6 @@
 # APA Insurance Portal Automation 
 
-A Selenium-based automated testing suite for the APA Insurance customer portaln new client registration.
+A Selenium-based automated testing suite for the APA Insurance customer portal new client registration.
 
  Tech Stack
 Language:Java 17
