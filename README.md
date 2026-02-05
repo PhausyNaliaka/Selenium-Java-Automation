@@ -13,7 +13,7 @@ Browser:Google Chrome
 * Verification of page elements (e.g., Request for Quotation button).
 * Automated button clicks and basic workflow testing.
 
-## 🚀 How to Run
+ How to Run
 1. Ensure you have Java 17 and Maven installed.
 2. Clone this repository:
    ```bash
